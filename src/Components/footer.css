@@ -1,0 +1,46 @@
+footer{
+    width: 100%;
+    background-color: #f4f1f1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Source Sans 3", "PT Sans", "Inter";
+    padding: 2rem 0 0.5rem 0;
+}
+
+.fullTitle{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-bottom: 2rem;
+    color: #991F48;
+}
+
+.findUs{
+    text-align: center;
+    color: #5C5C5C;
+    font-size: 1.1rem;
+    padding-bottom: 2rem;
+}
+
+.copyright{
+    width: 100%;
+    background-color: #A4A09C;
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 1rem;
+}
+
+.createdBy{
+    width: 100%;
+    text-align: center;
+    padding-top: 0.5rem;
+}
+
+.github{
+    color: black;
+}
+
+.github:hover{
+    color: #5C5C5C;
+}
